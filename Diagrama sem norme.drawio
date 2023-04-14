@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T00:15:25.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="lYqcrUkCs6ovEBxt8NnI" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T23:44:40.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="GFF13HLVFDrQ_QjXt3bg" version="21.1.7" type="github">
   <diagram name="Página-1" id="LDEoYNo0WsIWAV5cOLvl">
-    <mxGraphModel dx="2514" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2286" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,13 +20,6 @@
         <mxCell id="R3lp2fc2N_ukTkgj45sd-1" value="API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-30" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pfoQ1G07Xg3hc_mOFHfe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R3lp2fc2N_ukTkgj45sd-2" target="pfoQ1G07Xg3hc_mOFHfe-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="30" y="490" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="R3lp2fc2N_ukTkgj45sd-2" value="array 15 numeros" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-30" y="270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -41,47 +34,53 @@
         <mxCell id="R3lp2fc2N_ukTkgj45sd-5" value="nº sorteio" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-190" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R3lp2fc2N_ukTkgj45sd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="R3lp2fc2N_ukTkgj45sd-7" target="R3lp2fc2N_ukTkgj45sd-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="R3lp2fc2N_ukTkgj45sd-7" value="API tickets&lt;br&gt;tickets-lottery" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R3lp2fc2N_ukTkgj45sd-7" value="API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="R3lp2fc2N_ukTkgj45sd-8" value="numeros selecionados&lt;br&gt;(selectedNumbers)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R3lp2fc2N_ukTkgj45sd-8" value="Faz um post de 15 a 20 numeros" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="R3lp2fc2N_ukTkgj45sd-10" value="id da aposta&lt;br&gt;(betId)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R3lp2fc2N_ukTkgj45sd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="R3lp2fc2N_ukTkgj45sd-10" target="R3lp2fc2N_ukTkgj45sd-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="R3lp2fc2N_ukTkgj45sd-10" value="puxa o nº do sorteio da outra api" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414" y="270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R3lp2fc2N_ukTkgj45sd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="R3lp2fc2N_ukTkgj45sd-13" target="R3lp2fc2N_ukTkgj45sd-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="R3lp2fc2N_ukTkgj45sd-13" value="data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="R3lp2fc2N_ukTkgj45sd-13" value="data&lt;br&gt;(date)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R3lp2fc2N_ukTkgj45sd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="R3lp2fc2N_ukTkgj45sd-14" target="R3lp2fc2N_ukTkgj45sd-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="R3lp2fc2N_ukTkgj45sd-14" value="preço aposta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R3lp2fc2N_ukTkgj45sd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="R3lp2fc2N_ukTkgj45sd-17" target="R3lp2fc2N_ukTkgj45sd-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="R3lp2fc2N_ukTkgj45sd-17" value="Saldo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="R3lp2fc2N_ukTkgj45sd-14" value="preço aposta&lt;br&gt;(betValue)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R3lp2fc2N_ukTkgj45sd-19" value="https://app.diagrams.net/#Hevelopes%2Fdiagramas%2Fmain%2FDiagrama%20sem%20norme.drawio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="200" y="10" width="570" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pfoQ1G07Xg3hc_mOFHfe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pfoQ1G07Xg3hc_mOFHfe-1" target="R3lp2fc2N_ukTkgj45sd-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pfoQ1G07Xg3hc_mOFHfe-1" value="API&lt;br&gt;user" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pfoQ1G07Xg3hc_mOFHfe-1" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="p895W6Y1u3VLtSxfysHn-1" value="id ticket&lt;br&gt;(ticketId)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p895W6Y1u3VLtSxfysHn-2" value="qtd numeros selecionados&lt;br&gt;(selectedNumbersCount)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p895W6Y1u3VLtSxfysHn-3" value="id usuario&lt;br&gt;userId" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p895W6Y1u3VLtSxfysHn-4" value="saldo&lt;br&gt;saldo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p895W6Y1u3VLtSxfysHn-6" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p895W6Y1u3VLtSxfysHn-7" value="numerosSortados" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p895W6Y1u3VLtSxfysHn-8" value="numeros selecionados&lt;br&gt;(selectedNumbers)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p895W6Y1u3VLtSxfysHn-9" value="apostaPaga&lt;br&gt;boolean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p895W6Y1u3VLtSxfysHn-10" value="numeros selecionados&lt;br&gt;(selectedNumbers)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
