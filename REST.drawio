@@ -1,9 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T20:01:18.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.7" etag="RDpvPnqWp5sFuUIyMsFm" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T20:40:47.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="PUc8-dk68np-7fJ-iZCg" version="22.1.7" type="github">
   <diagram name="Página-1" id="ft11jRg1xc3LefrnFgGt">
-    <mxGraphModel>
+    <mxGraphModel dx="2062" dy="996" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ovMwNEtyefO81-jU-git-1" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="139" y="169" width="122" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-2" value="REST" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="ovMwNEtyefO81-jU-git-1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ovMwNEtyefO81-jU-git-3" target="ovMwNEtyefO81-jU-git-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ovMwNEtyefO81-jU-git-3" target="ovMwNEtyefO81-jU-git-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.337;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ovMwNEtyefO81-jU-git-3" target="ovMwNEtyefO81-jU-git-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65.99700000000036" y="425.995" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ovMwNEtyefO81-jU-git-3" target="ovMwNEtyefO81-jU-git-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.968;exitY=0.662;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitPerimeter=0;" edge="1" parent="1" source="ovMwNEtyefO81-jU-git-3" target="ovMwNEtyefO81-jU-git-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-35" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ovMwNEtyefO81-jU-git-3" target="ovMwNEtyefO81-jU-git-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-3" value="Constraints/&lt;br&gt;Restrições" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="145.5" y="281" width="109" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ovMwNEtyefO81-jU-git-2" target="ovMwNEtyefO81-jU-git-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-5" value="Cliente-servidor" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="309" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-7" value="api consumidora que envia requisições pra um servidor, que DEVEM poder evoluir separadamente  sem dependencias" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;spacingTop=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-136" y="373" width="161" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-11" value="Stateless&lt;br&gt;Sem Estado" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-132" y="440" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-12" value="aplicação não deve ter estado, servidor não pode manter uma sessão no servidor, a requisição deve conter tudo que necessário para processar o que foi requisitado" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;spacingTop=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-132" y="509" width="161" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-20" value="Cache" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="44.000000000000014" y="513" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-21" value="Api pode fazer cache das requisições" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;spacingTop=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="44.000000000000014" y="573" width="161" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-23" value="Interface uniforme" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="397" y="329" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-24" value="Conjunto de operações bem, definidas do sistema, cada parte evolui de maneira independente com URI. " style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;spacingTop=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="397" y="393" width="161" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-26" value="Sistema em Camadas" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;spacingLeft=1;" vertex="1" parent="1">
+          <mxGeometry x="454" y="449" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-27" value="Possibilidade, entre o cliente e o servidor, ter outros servidores(camada de segurança, cache...), sem afetar a requisição e a resposta do servidor" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;spacingTop=0;labelBackgroundColor=none;spacingLeft=1;" vertex="1" parent="1">
+          <mxGeometry x="456" y="518" width="161" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-33" value="Código sob demanda" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="259" y="502" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ovMwNEtyefO81-jU-git-34" value="Opcional, servidor pode enviar como resposta um código para ser executado pelo cliente" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;spacingTop=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="259" y="564" width="161" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
